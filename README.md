@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [NGO Website (Caring hearts society))](http://caringheartssociety.neocities.org)
+- 🔭 I’m currently working on [Designing & Coding NGO Website (Caring hearts society))](http://caringheartssociety.neocities.org)
 
 - 🌱 I’m currently learning **React Native**
 
