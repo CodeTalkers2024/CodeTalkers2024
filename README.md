@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
+[![MasterHead](https://camo.githubusercontent.com/c00f1330001f8765c82fba58efe4749079b6506ff7f650331024b8c4b9f7e1d4/68747470733a2f2f626c6f672e72617069646170692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30312f6f63746f6361742e676966)
 <h1 align="center">Hi 👋, I'm Sneha Trivedi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif
